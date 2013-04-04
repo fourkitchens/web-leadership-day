@@ -1,4 +1,4 @@
-web-leadership-day
+Web Leadership Day
 ==================
 
-Site for Web Leadership Day 2013
+June 21, 2013 in Austin, TX
