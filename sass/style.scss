@@ -4,7 +4,7 @@
 
 $blue: #2A363B;
 $green: #99B898;
-$peach: #FECEA8;
+$orange: #FEA35B;
 $red: #E84A5F;
 $darkred: #97182A;
 
@@ -49,7 +49,7 @@ li {
 }
 
 blockquote {
-  color: $peach;
+  color: $orange;
   font-size: 1.4em;
   line-height: 1.3em;
   padding: 0;
@@ -61,7 +61,7 @@ header {
   h1 {
     font-weight: 900;
     margin-bottom: .1em;
-    color: $peach;
+    color: $orange;
     line-height: 1;
   }
   h2 {
@@ -69,7 +69,7 @@ header {
     font-size: 1.6em;
     font-weight: 300;
     margin-top: 0;
-    color: $peach;
+    color: $orange;
   }
   h4 {
     margin-bottom: 0;
@@ -95,7 +95,7 @@ a {
 }
 
 hr {
-  border-color: $peach;
+  border-color: $orange;
 }
 
 // Layout
